@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learnCode/static/css/main.073c9b0a.css",
+    "main.js": "/learnCode/static/js/main.47cd7029.js",
+    "static/js/787.9ff7129a.chunk.js": "/learnCode/static/js/787.9ff7129a.chunk.js",
+    "index.html": "/learnCode/index.html",
+    "main.073c9b0a.css.map": "/learnCode/static/css/main.073c9b0a.css.map",
+    "main.47cd7029.js.map": "/learnCode/static/js/main.47cd7029.js.map",
+    "787.9ff7129a.chunk.js.map": "/learnCode/static/js/787.9ff7129a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.47cd7029.js"
+  ]
+}
